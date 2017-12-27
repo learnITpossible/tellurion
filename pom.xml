@@ -9,7 +9,7 @@
   <packaging>jar</packaging>
 
   <name>tellurion</name>
-  <description>Demo project for Spring Boot</description>
+  <description>Spring Cloud Eureka</description>
 
   <parent>
     <groupId>org.springframework.boot</groupId>
